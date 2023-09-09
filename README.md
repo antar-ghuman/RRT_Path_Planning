@@ -19,6 +19,7 @@ Run the main.py file with the required arguments in the following format:
 
 ```bash
 python main.py start_x start_y goal_x goal_y map_image
+```
 
 start_x and start_y are the x and y coordinates of the starting point, respectively.
 goal_x and goal_y are the x and y coordinates of the goal point, respectively.
