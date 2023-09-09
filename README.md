@@ -2,6 +2,8 @@
 
 This project implements the Rapidly-exploring Random Tree (RRT) algorithm for pathfinding in autonomous driving. The algorithm efficiently computes a collision-free path from a given starting point to a specified goal point on a map image, considering obstacles.
 
+![Example Output](map_map2.png)
+
 **Dependencies**
 The project relies on the following Python libraries:
 
