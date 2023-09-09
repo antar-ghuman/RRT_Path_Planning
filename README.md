@@ -5,10 +5,14 @@ This project implements the Rapidly-exploring Random Tree (RRT) algorithm for pa
 **Dependencies**
 The project relies on the following Python libraries:
 
-OpenCV (cv2): For image processing and visualization.
-NumPy: For numerical operations.
+OpenCV (cv2): For image processing and visualization
+
+NumPy: For numerical operations
+
 Python version > 3.8
+
 matplotlib
+
 
 **How to Use**
 To use this project, follow the steps below:
